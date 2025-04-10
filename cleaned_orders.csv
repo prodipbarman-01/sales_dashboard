@@ -1,0 +1,6 @@
+Order ID,Customer Name,Order Date,Amount,Product,City
+1001,John Smith,2023-12-01,200.0,iphone,mumbai
+1002,Sarah Jones,2023-01-13,250.0,iphone,mumbai
+1003,Unknown,2023-01-14,150.0,iphone,mumbai
+1004,Sarah Jones,2023-01-15,,airpods,mumbai
+1005,John Smith,2023-01-15,300.0,iphone,mumbai
